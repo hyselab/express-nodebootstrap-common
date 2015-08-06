@@ -1,0 +1,25 @@
+{
+  "name": "express-nodebootstrap-common",
+  "version": "0.0.1",
+  "description": "User Express Node Bootstrap Common Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyselab/express-nodebootstrap-common.git"
+  },
+  "keywords": [
+    "express",
+    "nodebootstrap",
+    "common",
+    "router"
+  ],
+  "author": "Henry Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyselab/express-nodebootstrap-common/issues"
+  },
+  "homepage": "https://github.com/hyselab/express-nodebootstrap-common#readme"
+}
