@@ -1,7 +1,7 @@
 {
   "name": "express-nodebootstrap-common",
-  "version": "0.0.1",
-  "description": "User Express Node Bootstrap Common Module",
+  "version": "0.0.2",
+  "description": "Use under Express Node Bootstrap Common Module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +15,12 @@
     "nodebootstrap",
     "common",
     "router"
+  ],
+  "files": [
+    "/",
+    "Readme.md",
+    "index.js",
+    "node_modules/"
   ],
   "author": "Henry Miller",
   "license": "ISC",
